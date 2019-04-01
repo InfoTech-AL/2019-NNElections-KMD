@@ -1,6 +1,6 @@
-# Infotech-AL 2019KMD-NN-Elections - Back for season 3
+# Infotech-AL 2019KMD-NN-Elections - Season 3
 
-## INFOTECH – AL KMD NA & EU NOTARY NODE CANDIDATE NN NA & EU
+## INFOTECH – AL KMD NA & EU NOTARY NODE CANDIDATE 
 
 |   	|   	|
 |---	|---	|
